@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: shiro
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.aiit
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/shiro
+Created-By: Maven Integration for Eclipse
+
